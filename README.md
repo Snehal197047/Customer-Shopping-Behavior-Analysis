@@ -1,4 +1,4 @@
-# Customer-Shopping-Behavior-Analysis
+# 👨🏻‍💻Customer-Shopping-Behavior-Analysis
 
 The goal of this project is to simulate a corporate-grade end-to-end data analytics workflow, demonstrating the ability to translate raw data into strategic business intelligence by:
 
